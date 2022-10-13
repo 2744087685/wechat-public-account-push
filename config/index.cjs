@@ -29,7 +29,7 @@ const USER_CONFIG = {
       
         // 结婚纪念日
         
-      ],
+      
     },
   ],
 
